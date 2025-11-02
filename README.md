@@ -1,6 +1,6 @@
 # Electric Vehicle Analysis – AICTE Edunet IBM Internship
 
-### 👩‍💻 Submitted by: **Lavina Solanki**  
+### Submitted by: **Lavina Solanki**  
 **Internship Domain:** Artificial Intelligence & Data Science  
 **Duration:** 1 Week  
 **Organization:** AICTE Edunet Foundation (IBM SkillsBuild)  
