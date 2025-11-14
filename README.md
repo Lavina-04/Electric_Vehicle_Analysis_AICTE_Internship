@@ -2,8 +2,11 @@
 Submitted by: Lavina Solanki
 
 Domain: Artificial Intelligence & Data Science
+
 Duration: 1 Week
+
 Organization: AICTE Edunet Foundation (IBM SkillsBuild)
+
 College: University College of Engineering & Technology, BTU Bikaner
 
 # Project Overview
@@ -22,10 +25,10 @@ To visualize year-wise EV population trends.
 To understand the relationship between EVs and overall vehicle population.
 
 # Files in This Repository
-File Name	Description
-EV_Analysis.ipynb	Jupyter Notebook with full analysis code
-Cleaned_Electric_Vehicle_Data.csv	Cleaned dataset used for visualization
-EV_Trend_By_Year.png	Visualization of EV population trend by year
+File Name	                                      Description
+EV_Analysis.ipynb	                      Jupyter Notebook with full analysis code
+Cleaned_Electric_Vehicle_Data.csv     	Cleaned dataset used for visualization
+EV_Trend_By_Year.png                   	Visualization of EV population trend by year
 
 # Technologies Used
 
